@@ -1,0 +1,79 @@
+c:\users\user\onedrive\belgeler\visual studio 2012\Projects\uyg-1\uyg-1\bin\Debug\uyg-1.exe.config
+C:\Users\user\OneDrive\Belgeler\Visual Studio 2012\Projects\uyg-1\uyg-1\bin\Debug\uyg-1.exe
+C:\Users\user\OneDrive\Belgeler\Visual Studio 2012\Projects\uyg-1\uyg-1\bin\Debug\uyg-1.pdb
+C:\Users\user\OneDrive\Belgeler\Visual Studio 2012\Projects\uyg-1\uyg-1\obj\Debug\uyg_1.Form1.resources
+C:\Users\user\OneDrive\Belgeler\Visual Studio 2012\Projects\uyg-1\uyg-1\obj\Debug\uyg_1.Properties.Resources.resources
+C:\Users\user\OneDrive\Belgeler\Visual Studio 2012\Projects\uyg-1\uyg-1\obj\Debug\uyg-1.csproj.GenerateResource.Cache
+C:\Users\user\OneDrive\Belgeler\Visual Studio 2012\Projects\uyg-1\uyg-1\obj\Debug\uyg-1.exe
+C:\Users\user\OneDrive\Belgeler\Visual Studio 2012\Projects\uyg-1\uyg-1\obj\Debug\uyg-1.pdb
+C:\Users\user\OneDrive\Belgeler\Visual Studio 2012\Projects\uyg-1\uyg-1\obj\Debug\uyg_1.kayitol.resources
+C:\Users\user\OneDrive\Belgeler\Visual Studio 2012\Projects\uyg-1\uyg-1\obj\Debug\uyg-1.csprojResolveAssemblyReference.cache
+C:\Users\Öğrenci\Downloads\k-t-phane-main\k-t-phane-main\uyg-1\uyg-1\bin\Debug\uyg-1.exe.config
+C:\Users\Öğrenci\Downloads\k-t-phane-main\k-t-phane-main\uyg-1\uyg-1\obj\Debug\uyg-1.exe
+C:\Users\Öğrenci\Downloads\k-t-phane-main\k-t-phane-main\uyg-1\uyg-1\obj\Debug\uyg-1.pdb
+C:\Users\Öğrenci\Downloads\k-t-phane-main\k-t-phane-main\uyg-1\uyg-1\bin\Debug\uyg-1.exe
+C:\Users\Öğrenci\Downloads\k-t-phane-main\k-t-phane-main\uyg-1\uyg-1\bin\Debug\uyg-1.pdb
+C:\Users\Öğrenci\Downloads\k-t-phane-main\k-t-phane-main\uyg-1\uyg-1\obj\Debug\uyg-1.csprojResolveAssemblyReference.cache
+C:\Users\Öğrenci\Downloads\k-t-phane-main\k-t-phane-main\uyg-1\uyg-1\obj\Debug\uyg_1.Form1.resources
+C:\Users\Öğrenci\Downloads\k-t-phane-main\k-t-phane-main\uyg-1\uyg-1\obj\Debug\uyg_1.kayitol.resources
+C:\Users\Öğrenci\Downloads\k-t-phane-main\k-t-phane-main\uyg-1\uyg-1\obj\Debug\uyg_1.Properties.Resources.resources
+C:\Users\Öğrenci\Downloads\k-t-phane-main\k-t-phane-main\uyg-1\uyg-1\obj\Debug\uyg_1.yönlendirmesayfası.resources
+C:\Users\Öğrenci\Downloads\k-t-phane-main\k-t-phane-main\uyg-1\uyg-1\obj\Debug\uyg-1.csproj.GenerateResource.Cache
+C:\Users\Öğrenci\Downloads\k-t-phane-main\k-t-phane-main\uyg-1\uyg-1\obj\Debug\uyg_1.kullanicilar.resources
+C:\Users\Öğrenci\Downloads\k-t-phane-main\k-t-phane-main\uyg-1\uyg-1\obj\Debug\uyg_1.sifredegistirme.resources
+C:\Users\user\Downloads\k-t-phane-main\k-t-phane-main\uyg-1\uyg-1\bin\Debug\uyg-1.exe.config
+C:\Users\user\Downloads\k-t-phane-main\k-t-phane-main\uyg-1\uyg-1\obj\Debug\uyg-1.exe
+C:\Users\user\Downloads\k-t-phane-main\k-t-phane-main\uyg-1\uyg-1\obj\Debug\uyg-1.pdb
+C:\Users\user\Downloads\k-t-phane-main\k-t-phane-main\uyg-1\uyg-1\bin\Debug\uyg-1.exe
+C:\Users\user\Downloads\k-t-phane-main\k-t-phane-main\uyg-1\uyg-1\bin\Debug\uyg-1.pdb
+C:\Users\user\Downloads\k-t-phane-main\k-t-phane-main\uyg-1\uyg-1\obj\Debug\uyg-1.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\k-t-phane-main\k-t-phane-main\uyg-1\uyg-1\obj\Debug\uyg_1.Form1.resources
+C:\Users\user\Downloads\k-t-phane-main\k-t-phane-main\uyg-1\uyg-1\obj\Debug\uyg_1.kayitol.resources
+C:\Users\user\Downloads\k-t-phane-main\k-t-phane-main\uyg-1\uyg-1\obj\Debug\uyg_1.kullanicilar.resources
+C:\Users\user\Downloads\k-t-phane-main\k-t-phane-main\uyg-1\uyg-1\obj\Debug\uyg_1.Properties.Resources.resources
+C:\Users\user\Downloads\k-t-phane-main\k-t-phane-main\uyg-1\uyg-1\obj\Debug\uyg_1.sifredegistirme.resources
+C:\Users\user\Downloads\k-t-phane-main\k-t-phane-main\uyg-1\uyg-1\obj\Debug\uyg_1.yönlendirmesayfası.resources
+C:\Users\user\Downloads\k-t-phane-main\k-t-phane-main\uyg-1\uyg-1\obj\Debug\uyg-1.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\k-t-phane-main\k-t-phane-main\uyg-1\uyg-1\obj\Debug\uyg_1.kitapislemleri.resources
+C:\Users\Öğrenci\Desktop\Baran Proje\k-t-phane-main\NTP proje\uyg-1\bin\Debug\uyg-1.exe.config
+C:\Users\Öğrenci\Desktop\Baran Proje\k-t-phane-main\NTP proje\uyg-1\obj\Debug\uyg-1.exe
+C:\Users\Öğrenci\Desktop\Baran Proje\k-t-phane-main\NTP proje\uyg-1\obj\Debug\uyg-1.pdb
+C:\Users\Öğrenci\Desktop\Baran Proje\k-t-phane-main\NTP proje\uyg-1\bin\Debug\uyg-1.exe
+C:\Users\Öğrenci\Desktop\Baran Proje\k-t-phane-main\NTP proje\uyg-1\bin\Debug\uyg-1.pdb
+C:\Users\Öğrenci\Desktop\Baran Proje\k-t-phane-main\NTP proje\uyg-1\obj\Debug\uyg-1.csprojResolveAssemblyReference.cache
+C:\Users\Öğrenci\Desktop\Baran Proje\k-t-phane-main\NTP proje\uyg-1\obj\Debug\uyg_1.Form1.resources
+C:\Users\Öğrenci\Desktop\Baran Proje\k-t-phane-main\NTP proje\uyg-1\obj\Debug\uyg_1.kayitol.resources
+C:\Users\Öğrenci\Desktop\Baran Proje\k-t-phane-main\NTP proje\uyg-1\obj\Debug\uyg_1.kitapislemleri.resources
+C:\Users\Öğrenci\Desktop\Baran Proje\k-t-phane-main\NTP proje\uyg-1\obj\Debug\uyg_1.kullanicilar.resources
+C:\Users\Öğrenci\Desktop\Baran Proje\k-t-phane-main\NTP proje\uyg-1\obj\Debug\uyg_1.Properties.Resources.resources
+C:\Users\Öğrenci\Desktop\Baran Proje\k-t-phane-main\NTP proje\uyg-1\obj\Debug\uyg_1.sifredegistirme.resources
+C:\Users\Öğrenci\Desktop\Baran Proje\k-t-phane-main\NTP proje\uyg-1\obj\Debug\uyg_1.yönlendirmesayfası.resources
+C:\Users\Öğrenci\Desktop\Baran Proje\k-t-phane-main\NTP proje\uyg-1\obj\Debug\uyg-1.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\k-t-phane-main (1)\k-t-phane-main\NTP proje\NTP proje\uyg-1\bin\Debug\uyg-1.exe.config
+C:\Users\user\Downloads\k-t-phane-main (1)\k-t-phane-main\NTP proje\NTP proje\uyg-1\obj\Debug\uyg-1.exe
+C:\Users\user\Downloads\k-t-phane-main (1)\k-t-phane-main\NTP proje\NTP proje\uyg-1\obj\Debug\uyg-1.pdb
+C:\Users\user\Downloads\k-t-phane-main (1)\k-t-phane-main\NTP proje\NTP proje\uyg-1\bin\Debug\uyg-1.exe
+C:\Users\user\Downloads\k-t-phane-main (1)\k-t-phane-main\NTP proje\NTP proje\uyg-1\bin\Debug\uyg-1.pdb
+C:\Users\user\Downloads\k-t-phane-main (1)\k-t-phane-main\NTP proje\NTP proje\uyg-1\obj\Debug\uyg-1.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\k-t-phane-main (1)\k-t-phane-main\NTP proje\NTP proje\uyg-1\obj\Debug\uyg_1.Form1.resources
+C:\Users\user\Downloads\k-t-phane-main (1)\k-t-phane-main\NTP proje\NTP proje\uyg-1\obj\Debug\uyg_1.kayitol.resources
+C:\Users\user\Downloads\k-t-phane-main (1)\k-t-phane-main\NTP proje\NTP proje\uyg-1\obj\Debug\uyg_1.kitapislemleri.resources
+C:\Users\user\Downloads\k-t-phane-main (1)\k-t-phane-main\NTP proje\NTP proje\uyg-1\obj\Debug\uyg_1.kullanicilar.resources
+C:\Users\user\Downloads\k-t-phane-main (1)\k-t-phane-main\NTP proje\NTP proje\uyg-1\obj\Debug\uyg_1.Properties.Resources.resources
+C:\Users\user\Downloads\k-t-phane-main (1)\k-t-phane-main\NTP proje\NTP proje\uyg-1\obj\Debug\uyg_1.sifredegistirme.resources
+C:\Users\user\Downloads\k-t-phane-main (1)\k-t-phane-main\NTP proje\NTP proje\uyg-1\obj\Debug\uyg_1.yönlendirmesayfası.resources
+C:\Users\user\Downloads\k-t-phane-main (1)\k-t-phane-main\NTP proje\NTP proje\uyg-1\obj\Debug\uyg-1.csproj.GenerateResource.Cache
+C:\Users\user\OneDrive\Masaüstü\PROJE\uyg-1\bin\Debug\uyg-1.exe.config
+C:\Users\user\OneDrive\Masaüstü\PROJE\uyg-1\obj\Debug\uyg-1.exe
+C:\Users\user\OneDrive\Masaüstü\PROJE\uyg-1\obj\Debug\uyg-1.pdb
+C:\Users\user\OneDrive\Masaüstü\PROJE\uyg-1\obj\Debug\uyg-1.csprojResolveAssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\PROJE\uyg-1\bin\Debug\uyg-1.exe
+C:\Users\user\OneDrive\Masaüstü\PROJE\uyg-1\bin\Debug\uyg-1.pdb
+C:\Users\user\OneDrive\Masaüstü\PROJE\uyg-1\obj\Debug\uyg_1.Form1.resources
+C:\Users\user\OneDrive\Masaüstü\PROJE\uyg-1\obj\Debug\uyg_1.kayitol.resources
+C:\Users\user\OneDrive\Masaüstü\PROJE\uyg-1\obj\Debug\uyg_1.kitapislemleri.resources
+C:\Users\user\OneDrive\Masaüstü\PROJE\uyg-1\obj\Debug\uyg_1.kullanicilar.resources
+C:\Users\user\OneDrive\Masaüstü\PROJE\uyg-1\obj\Debug\uyg_1.Properties.Resources.resources
+C:\Users\user\OneDrive\Masaüstü\PROJE\uyg-1\obj\Debug\uyg_1.sifredegistirme.resources
+C:\Users\user\OneDrive\Masaüstü\PROJE\uyg-1\obj\Debug\uyg_1.yönlendirmesayfası.resources
+C:\Users\user\OneDrive\Masaüstü\PROJE\uyg-1\obj\Debug\uyg-1.csproj.GenerateResource.Cache
